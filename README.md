@@ -8,3 +8,4 @@
 * Median.py
 * Merge_Intervals.py
 * Minimum_Depth_Of_Binary_Tree.py
+* Singleton.py
