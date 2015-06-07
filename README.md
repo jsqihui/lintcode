@@ -11,3 +11,5 @@
 * Singleton.py
 * A_Plus_B_Problem.py
 * Binary_Tree_Serialization.py
+* Coins_In_A_Line_II.py
+* Coins_In_A_Line_III.py
