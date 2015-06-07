@@ -9,3 +9,5 @@
 * Merge_Intervals.py
 * Minimum_Depth_Of_Binary_Tree.py
 * Singleton.py
+* A_Plus_B_Problem.py
+* Binary_Tree_Serialization.py
