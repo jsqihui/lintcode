@@ -14,3 +14,5 @@
 * Coins_In_A_Line_II.py
 * Coins_In_A_Line_III.py
 * Continuous_Subarray_Sum.py
+* Convert_Sorted_List_To_Binary_Search_Tree.py
+* Delete_Digits.py
