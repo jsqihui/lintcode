@@ -16,3 +16,6 @@
 * Continuous_Subarray_Sum.py
 * Convert_Sorted_List_To_Binary_Search_Tree.py
 * Delete_Digits.py
+* Digit_Counts.py
+* Distinct_Subsequences.py
+* Fast_Power.py
