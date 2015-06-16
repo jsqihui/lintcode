@@ -20,4 +20,4 @@
 * Distinct_Subsequences.py
 * Fast_Power.py
 * Gray_Code.py
-
+* Heapify.py
